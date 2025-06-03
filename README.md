@@ -1,4 +1,3 @@
 - 👋 Hi, I’m George 'Daisy' Reynolds (@TuJGR)
 - 👀 I’m interested in lots!
-- 🌱 I’m currently learning ES6 JavaScript
 - 💞️ I’m looking to collaborate on anything Shopify related.
